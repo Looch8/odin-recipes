@@ -4,7 +4,10 @@ body {
   background-color: rgb(248, 138, 104);
 }
 
-.title {
+.title,
+.title1,
+.title2,
+.title3 {
     color: rgb(9, 153, 35);
     background-color: yellow;
     font-family: "Verdana", sans-serif;
@@ -31,6 +34,4 @@ div.roo {
   display: block;
   float: bottom; 
 }
-
-/* snags */
 
