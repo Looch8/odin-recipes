@@ -1,9 +1,10 @@
+/* homepage */
 
 body {
   background-color: rgb(248, 138, 104);
 }
 
-div.title {
+.title {
     color: rgb(9, 153, 35);
     background-color: yellow;
     font-family: "Verdana", sans-serif;
@@ -30,3 +31,6 @@ div.roo {
   display: block;
   float: bottom; 
 }
+
+/* snags */
+
